@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "http://prolotex.digitartdesigns.com/?app";     
+var url = "http://prolotex.com/?app";     
 $(location).attr('href',url);
 });
